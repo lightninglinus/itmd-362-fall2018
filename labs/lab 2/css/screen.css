@@ -421,6 +421,11 @@ input{
 }
 button {
 	border: none;
-	border-radius: 20px;
-	bottom: 30px;
+	border-radius: 50px;
+	margin-top: 30px;
+	padding: 12px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: #3385ff;
+	font-size: 18px;
 }
