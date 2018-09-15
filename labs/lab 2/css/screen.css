@@ -395,10 +395,15 @@ My Personal Code
  */
 
 body {
-	background-color: aqua;
-	
+}
+h1 {
+}
+p {
+}
+label {
+}
+input {
 }
 
-h1 {
-		
+.button {
 }
