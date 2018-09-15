@@ -395,15 +395,32 @@ My Personal Code
  */
 
 body {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
 }
 h1 {
 }
 p {
+	padding-bottom: 8px;
+	padding-top: 20px;
 }
 label {
+	font-size: 18px;
 }
-input {
+input{
+	border: 0;
+	background-color: #E8E8E8;
+	padding: 5px 5px 5px 5px;
+	font-size: 16px;
+	border-radius: 6px;
+	padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
 }
-
-.button {
+.row {
+}
+button {
+	border: none;
+	border-radius: 20px;
+	bottom: 30px;
 }
